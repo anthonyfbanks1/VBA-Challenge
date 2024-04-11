@@ -1,4 +1,3 @@
-# VBA-Challenge
 This project uses VBA to clean and organize stock data. It was completed using the following workflow:
 
 Create a script that loops through all the stocks for one year and outputs the following information:
